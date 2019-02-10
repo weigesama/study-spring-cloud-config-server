@@ -1,5 +1,5 @@
 env:
-  cbt
+  test
 
 girl:
   name: Lily

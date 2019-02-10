@@ -1,9 +1,9 @@
 env:
-  test
+  test2
 
 girl:
   name: Lily
-  age: 20
+  age: 202
 
 spring:
   datasource:
